@@ -24,7 +24,6 @@ html {
 }
 
 .navbar ul li {
-  font-family: century;
   font-size: 1.1rem;
   font-weight: bold;
 }
@@ -76,7 +75,6 @@ html {
 }
 
 .headings {
-  font-family: century;
   font-size: 3rem;
   text-align: center;
   margin: 30px;
