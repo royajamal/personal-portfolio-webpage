@@ -20,7 +20,7 @@ html {
 .navbar ul {
   display: flex;
   list-style: none;
-  margin: 20px, 0px;
+  margin: 20px;
 }
 
 .navbar ul li {
@@ -79,7 +79,7 @@ html {
   font-family: century;
   font-size: 3rem;
   text-align: center;
-  margin: 30px 0px;
+  margin: 30px;
 }
 
 .btn {
@@ -164,7 +164,7 @@ html {
   flex-direction: column;
   box-sizing: border-box;
   align-items: center;
-  margin: 20px, 0px;
+  margin: 20px;
 }
 
 .input {
