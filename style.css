@@ -194,13 +194,13 @@ html {
     flex-wrap: wrap;
     justify-content: center;
 
-   }
+  }
 
-   .heading {
+  .heading {
     font-size: 2.5rem;
-   }
+  }
 
-   #pic{
+  #pic {
     flex-direction: column;
     align-items: center;
   }
