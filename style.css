@@ -190,10 +190,9 @@ html {
 }
 
 @media screen and (max-width:800px) {
-   .navbar ul {
+  .navbar ul {
     flex-wrap: wrap;
     justify-content: center;
-
   }
 
   .heading {
@@ -224,7 +223,7 @@ html {
   }
 }
 
-@media screen and (max-with: 530px) {
+@media screen and (max-width: 530px) {
   #home {
     height: 820px;
   }
@@ -232,7 +231,12 @@ html {
   .headings {
     font-size: 1.7rem;
   }
-  
+
+  .gallery img {
+    width: 360px;
+    height: 240px;
+    padding: 10px;
+  }
   #pic img {
     width: 300px;
     height: 175px;
@@ -240,12 +244,6 @@ html {
 
   #intro h2 {
     font-size: 1.5rem;
-  }
-
-  .gallery img {
-    width: 250px;
-    height: 240px;
-    padding: 10px;
   }
 
   .input {
