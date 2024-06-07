@@ -205,7 +205,7 @@ html {
     align-items: center;
   }
 
-   #pic img {
+  #pic img {
     width: 475px;
     height: 300px;
   }
@@ -214,15 +214,14 @@ html {
     text-align: center;
     padding: 10px;
   }
-   
+
   .input {
     width: 60%;
   }
- 
+
   .send {
     width: 20%;
   }
-  
 }
 
 @media screen and (max-with: 530px) {
