@@ -110,6 +110,11 @@ html {
 #pic {
   display: flex;
 }
+.gallery img {
+  width: 360px;
+  height: 240px;
+  padding: 10px;
+}
 
 #pic img {
   width: 575px;
@@ -144,12 +149,6 @@ html {
   box-sizing: border-box;
 }
 
-.gallery img {
-  width: 360px;
-  height: 240px;
-  padding: 10px;
-}
-
 #contact {
   display: flex;
   flex-direction: column;
@@ -164,7 +163,7 @@ html {
   flex-direction: column;
   box-sizing: border-box;
   align-items: center;
-  margin: 20px 0px;
+  margin: 20px, 0px;
 }
 
 .input {
@@ -186,10 +185,9 @@ html {
 #send:hover {
   cursor: pointer;
   box-shadow: 0 0 10px white;
-
 }
 
-@media screen and (max-width:800px) {
+@media screen and (max-width: 800px;) {
   .navbar ul {
     flex-wrap: wrap;
     justify-content: center;
@@ -237,6 +235,7 @@ html {
     height: 240px;
     padding: 10px;
   }
+
   #pic img {
     width: 300px;
     height: 175px;
