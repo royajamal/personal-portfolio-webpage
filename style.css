@@ -20,7 +20,7 @@ html {
 .navbar ul {
   display: flex;
   list-style: none;
-  margin: 20px 0px;
+  margin: 20px, 0px;
 }
 
 .navbar ul li {
